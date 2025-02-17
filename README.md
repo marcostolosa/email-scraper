@@ -1,6 +1,6 @@
-# 📧 Email Scraper Pro
+# 📧 Email Scraper
 
-Bem-vindo ao **Email Scraper Pro**! Esta poderosa extensão do Chrome permite que você colete endereços de e-mail de páginas da web de forma fácil. Se você é um profissional de marketing, pesquisador ou simplesmente precisa coletar e-mails para seu projeto, o Email Scraper Pro está aqui para ajudar.
+Bem-vindo ao **Email Scraper**! Esta poderosa extensão do Chrome permite que você colete endereços de e-mail de páginas da web de forma fácil. Se você é um profissional de marketing, pesquisador ou simplesmente precisa coletar e-mails para seu projeto, o Email Scraper está aqui para te ajudar.
 
 ## 🚀 Recursos
 
@@ -15,19 +15,19 @@ Bem-vindo ao **Email Scraper Pro**! Esta poderosa extensão do Chrome permite qu
 
 1. **Clone o Repositório**:
     ```bash
-    git clone https://github.com/yourusername/email-scraper-pro.git
+    git clone https://github.com/marcostolosa/email-scraper.git
     cd email-scraper-pro
     ```
 
 2. **Carregue a Extensão no Chrome**:
     - Abra o Chrome e navegue até `chrome://extensions/`.
     - Ative o "Modo de desenvolvedor" no canto superior direito.
-    - Clique em "Carregar sem compactação" e selecione o diretório `email-scraper-pro`.
+    - Clique em "Carregar sem compactação" e selecione o diretório `email-scraper`.
 
 ## 🛠️ Como Usar
 
 1. **Ative a Extensão**:
-    - Clique no ícone do Email Scraper Pro na barra de ferramentas do Chrome.
+    - Clique no ícone do Email Scraper na barra de ferramentas do Chrome.
     - O popup exibirá o número de e-mails coletados e fornecerá opções para pesquisar, copiar e exportar.
 
 2. **Pesquise e Filtre**:
@@ -41,7 +41,7 @@ Bem-vindo ao **Email Scraper Pro**! Esta poderosa extensão do Chrome permite qu
 
 ## 📊 Painel
 
-O Email Scraper Pro inclui um painel poderoso para visualizar e gerenciar seus e-mails coletados.
+O Email Scraper inclui um painel poderoso para visualizar e gerenciar seus e-mails coletados.
 
 1. **Visão Geral**: Veja o total de postagens, comentários totais e pontuação média.
 2. **Postagens Recentes**: Exiba as postagens mais recentes com seus detalhes.
@@ -57,19 +57,15 @@ O Email Scraper Pro inclui um painel poderoso para visualizar e gerenciar seus e
 
 ## 🛡️ Segurança
 
-O Email Scraper Pro respeita sua privacidade e garante que seus dados estejam seguros. A extensão coleta e-mails apenas das páginas que você visita e os armazena localmente no seu dispositivo.
+O Email Scraper respeita sua privacidade e garante que seus dados estejam seguros. A extensão coleta e-mails apenas das páginas que você visita e os armazena localmente no seu dispositivo.
 
 ## 🤝 Contribuindo
 
 Nós aceitamos contribuições! Se você tiver sugestões, relatórios de bugs ou quiser contribuir com código, abra uma issue ou envie um pull request no GitHub.
-
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
 ## 🌟 Agradecimentos
 
 Agradecimentos especiais a todos os contribuidores e à comunidade de código aberto pelo apoio e inspiração.
 
 ---
-**Email Scraper Pro** - Sua ferramenta definitiva para coleta profissional de e-mails. Comece a raspar hoje! 🚀
+**Email Scraper** - Sua ferramenta definitiva para coleta profissional de e-mails. Comece hoje! 🚀
