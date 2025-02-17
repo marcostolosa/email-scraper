@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Email Scraper Pro</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>📨 <span id="email-count">0</span> Emails</h1>
+      <div class="controls">
+        <input type="search" id="search" placeholder="Pesquisar...">
+      </div>
+    </div>
+
+    <div class="email-list">
+      <div class="email-item header">
+        <span>Email</span>
+        <span>Origem</span>
+        <span>Data</span>
+      </div>
+      <div id="email-list"></div>
+    </div>
+
+    <div class="footer">
+      <button id="export-csv">📥 CSV</button>
+      <button id="export-json">📥 JSON</button>
+      <button id="copy-all">📋 Copiar</button>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
